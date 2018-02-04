@@ -1,0 +1,10 @@
+C:\Users\Aditya\Desktop\asinha-proj8\CTA-Analysis\CTA\bin\Debug\CTA.exe.config
+C:\Users\Aditya\Desktop\asinha-proj8\CTA-Analysis\CTA\bin\Debug\CTA.exe
+C:\Users\Aditya\Desktop\asinha-proj8\CTA-Analysis\CTA\bin\Debug\CTA.pdb
+C:\Users\Aditya\Desktop\asinha-proj8\CTA-Analysis\CTA\obj\Debug\CTA.csprojResolveAssemblyReference.cache
+C:\Users\Aditya\Desktop\asinha-proj8\CTA-Analysis\CTA\obj\Debug\CTA.Form1.resources
+C:\Users\Aditya\Desktop\asinha-proj8\CTA-Analysis\CTA\obj\Debug\CTA.Properties.Resources.resources
+C:\Users\Aditya\Desktop\asinha-proj8\CTA-Analysis\CTA\obj\Debug\CTA.csproj.GenerateResource.Cache
+C:\Users\Aditya\Desktop\asinha-proj8\CTA-Analysis\CTA\obj\Debug\CTA.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\asinha-proj8\CTA-Analysis\CTA\obj\Debug\CTA.exe
+C:\Users\Aditya\Desktop\asinha-proj8\CTA-Analysis\CTA\obj\Debug\CTA.pdb
